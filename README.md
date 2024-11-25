@@ -19,4 +19,6 @@ The Madhav Ecommerce Sales Dashboard is a comprehensive and interactive business
 
 ![Madhav Ecommerce Sales Dashboard](https://github.com/sunilvermann/Madhav_Ecommerce_Sales_Dashboard_In_Power_BI/blob/main/Dashboard-img-2.png)
 
+![Madhav Ecommerce Sales Dashboard Model View](https://github.com/sunilvermann/Madhav_Ecommerce_Sales_Dashboard_In_Power_BI/blob/main/Model_View_img.jpg)
+
 
