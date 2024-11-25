@@ -14,9 +14,9 @@ The Madhav Ecommerce Sales Dashboard is a comprehensive and interactive business
 - **Interactive Visuals:** Filter and drill down into data by region, category, and time periods.
 - **Project Learning:** 1. Used complex parameters to drill down in worksheet and customization using filters and Slicer.<br/> 2. Create connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.<br/> Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, Scatter chart, line chart, area chart, map, slicers etc.)
 
-![Madhav Ecommerce Sales Dashboard](https://github.com/sunilvermann/Madhav_Ecommerce_Sales_Dashboard_In_Power_BI/edit/main/Dashboard-img-1.PNG)
+![Madhav Ecommerce Sales Dashboard](https://github.com/sunilvermann/Madhav_Ecommerce_Sales_Dashboard_In_Power_BI/tree/main/Dashboard-img-1.PNG)
 
 
-![Madhav Ecommerce Sales Dashboard](https://github.com/sunilvermann/Madhav_Ecommerce_Sales_Dashboard_In_Power_BI/edit/main/Dashboard-img-2.PNG)
+![Madhav Ecommerce Sales Dashboard](https://github.com/sunilvermann/Madhav_Ecommerce_Sales_Dashboard_In_Power_BI/tree/main/Dashboard-img-2.PNG)
 
 
